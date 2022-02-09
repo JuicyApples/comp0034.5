@@ -1,0 +1,8 @@
+dash
+pandas
+dash-bootstrap-components
+selenium
+requests
+pytest
+pytest-cov
+colorlover
